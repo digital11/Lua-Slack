@@ -1,6 +1,7 @@
 Lua-Slack
 =========
 
+
 > An Eloquent ORM styled Lua implementation for the Slack API.
 
 ### Supported API Functions
